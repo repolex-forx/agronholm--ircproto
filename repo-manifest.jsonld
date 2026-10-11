@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/ircproto/commit/7993857e0f475f9fe8484bc669906cf1d6add0dd",
       "git:hexsha": "7993857e0f475f9fe8484bc669906cf1d6add0dd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:36:31.720485+00:00"
     }
   ]
 }
