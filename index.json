@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "ircproto",
+  "versions": [
+    {
+      "commit": "7993857e0f475f9fe8484bc669906cf1d6add0dd",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:36:31.852404+00:00"
+    }
+  ]
+}
